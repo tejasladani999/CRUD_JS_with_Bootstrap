@@ -108,7 +108,7 @@ function findUserDataById(userId) {
     // Sample user data for testing
     var userData = {
         id: userId,
-        firstName: firstName,
+        firstName: 'john',
         lastName: 'Doe',
         birthDate: '1990-01-01',
         email: 'john@example.com',
